@@ -41,7 +41,5 @@ public class App {
         }
         System.out.println("Tiempo de búsqueda binaria: " + tiempoBinaria + " nanosegundos");
 
-        // Cerrar el Scanner
-        scanner.close();
     }
 }
